@@ -1,3 +1,5 @@
+""" Turns image data into embedding vectors. Returning a pickle file.
+"""
 from keras.applications import resnet50
 import utils
 import argparse 

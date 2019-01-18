@@ -1,3 +1,5 @@
+""" The configurations for training the model.
+"""
 num_labels = 3
 epochs = 100
 batch_size = 128

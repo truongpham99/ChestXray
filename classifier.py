@@ -1,3 +1,5 @@
+""" Use for training and testing. The data will be in pickle files. 
+"""
 import argparse
 import sys
 import pickle
